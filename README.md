@@ -1,2 +1,2 @@
 # lojadedesigners
-loja de designers
+utilizando BOOTSTRAP
