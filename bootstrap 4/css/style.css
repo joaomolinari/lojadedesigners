@@ -1,0 +1,23 @@
+header{
+  background: url(https://source.unsplash.com/u27Rrbs9Dwc/1600x900) no-repeat center;
+  background-size: cover;
+}
+header::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.5);
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+header > div{
+  max-width: 35em;
+}
+footer .icon{
+  font-size: 1.5em;
+}
+.card .shadow{
+  box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+}
